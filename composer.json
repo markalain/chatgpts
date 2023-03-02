@@ -1,0 +1,9 @@
+{
+    "require": {
+        "orhanerday/open-ai": "^3.4",
+        "league/commonmark": "^2.3"
+    },
+    "config": {
+        "platform-check": false
+    }
+}
